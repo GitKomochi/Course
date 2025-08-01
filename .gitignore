@@ -1,0 +1,9 @@
+/build
+node_modules
+.idea
+/storybook-static
+.loki/report.html
+.loki/report.json
+.cfft.templates
+cfft.config.json
+/reports
